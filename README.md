@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Raquel Martínez
 
-<!--
-**Raquelxx/Raquelxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Tecnología en Desarrollo de Software.
 
-Here are some ideas to get you started:
+💻 Apasionada por el desarrollo web, las bases de datos y la creación de soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente desarrollando proyectos Full Stack con React, Node.js, PostgreSQL y MongoDB.
+
+🌱 Aprendiendo continuamente nuevas tecnologías y mejores prácticas de desarrollo.
+
+📍 Colombia
+
+---
+
+## 🚀 Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Git
+- GitHub
+
+---
+
+## 🎯 Objetivos
+
+- Convertirme en Full Stack Developer
+- Especializarme en Arquitectura de Software
+- Aprender Inteligencia Artificial aplicada al desarrollo web
+- Mejorar continuamente mis habilidades en inglés técnico
+
+---
