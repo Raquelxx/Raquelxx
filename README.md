@@ -40,17 +40,13 @@
 * Tailwind CSS
 * Vite
 * Figma
-* Diseño Responsivo
-* Consumo de APIs REST
-* Componentes reutilizables
-* Diseño de interfaces de usuario
 
 ---
 
 # ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring" />
 </p>
 
 ### Tecnologías y conocimientos
@@ -59,10 +55,6 @@
 * Express.js
 * Java
 * Spring Boot
-* APIs REST
-* CRUDs
-* Autenticación de usuarios
-* Integración Frontend - Backend
 
 ---
 
@@ -85,16 +77,26 @@
 # 🛠️ Herramientas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,figma" />
 </p>
+
+### Herramientas principales
+
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- npm
+- Vercel
+- Figma
 
 ### Otras herramientas
 
-* Vercel
-* Studio 3T
-* MongoDB Compass
-* Draw.io
-* Cisco Packet Tracer
+- Studio 3T
+- MongoDB Compass
+- Draw.io
+- Cisco Packet Tracer
+- MySQL Workbench
 
 ---
 
