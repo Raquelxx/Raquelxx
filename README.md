@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;Apasionada+por+el+Desarrollo+Web;Diseno+y+Experiencia+de+Usuario;Siempre+Aprendiendo+Algo+Nuevo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;Apasionada+por+el+Desarrollo+Web;Creando+Interfaces+Modernas;Siempre+Aprendiendo+Algo+Nuevo" />
 </p>
 
 ---
