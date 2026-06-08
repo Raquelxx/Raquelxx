@@ -1,78 +1,100 @@
 <h1 align="center">👋 Hola, soy Raquel Martínez</h1>
 
 <h3 align="center">
-💻 Tecnóloga en Desarrollo de Software | Full Stack Developer en formación
+🎓 Tecnóloga en Desarrollo de Software | Frontend Developer | Full Stack Developer en crecimiento
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Tecnóloga+en+Desarrollo+de+Software;Full+Stack+Developer+en+Formación;React+Developer;Node.js+Developer;Apasionada+por+la+Tecnología;Siempre+Aprendiendo+Algo+Nuevo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;Apasionada+por+el+Desarrollo+Web;Diseño+y+Experiencia+de+Usuario;Siempre+Aprendiendo+Algo+Nuevo" />
 </p>
 
 ---
 
 ## 👩‍💻 Sobre mí
 
-🎓 Estudiante de **Tecnología en Desarrollo de Software**
+🎓 Estudiante de **Tecnología en Desarrollo de Software**.
 
-💻 Apasionada por el desarrollo web, las bases de datos y la creación de soluciones tecnológicas.
+💻 Me apasiona el desarrollo web y actualmente me desenvuelvo principalmente en el área de **Frontend Development**, creando interfaces modernas, intuitivas y funcionales.
 
-🚀 Actualmente desarrollando proyectos Full Stack utilizando:
+🎨 Disfruto trabajar con herramientas de diseño y prototipado como **Figma**, transformando ideas en experiencias digitales atractivas para los usuarios.
 
-- React
-- Node.js
-- Express
-- PostgreSQL
-- MongoDB
-- MySQL
+🚀 También he participado en proyectos Full Stack utilizando tecnologías como Node.js, Express, PostgreSQL y MongoDB, lo que me ha permitido comprender tanto el desarrollo del lado del cliente como del servidor.
 
-🌱 Actualmente aprendiendo:
+🌱 Actualmente continúo fortaleciendo mis conocimientos para convertirme en una desarrolladora **Full Stack** y seguir creciendo profesionalmente.
 
-- Spring Boot
-- Arquitectura de Software
-- Inteligencia Artificial aplicada al desarrollo web
-- Inglés para desarrolladores
-
-📍 Villavicencio, Colombia
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+# 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,java,spring,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma" />
 </p>
+
+### Tecnologías y conocimientos
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Tailwind CSS
+* Vite
+* Figma
+* Diseño Responsivo
+* Consumo de APIs REST
+* Componentes reutilizables
+* Diseño de interfaces de usuario
 
 ---
 
-## 📊 Estadísticas GitHub
+# ⚙️ Backend
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raquelxx&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquelxx&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
+
+### Tecnologías y conocimientos
+
+* Node.js
+* Express.js
+* Java
+* Spring Boot
+* APIs REST
+* CRUDs
+* Autenticación de usuarios
+* Integración Frontend - Backend
 
 ---
 
-## 🔥 Racha de Contribuciones
+# 🗄️ Bases de Datos
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Raquelxx&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 </p>
+
+### Tecnologías y conocimientos
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Supabase
+* Prisma ORM
 
 ---
 
-## 🏆 Logros GitHub
+# 🛠️ Herramientas
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raquelxx&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
 </p>
+
+### Otras herramientas
+
+* Vercel
+* Studio 3T
+* MongoDB Compass
+* Draw.io
+* Cisco Packet Tracer
 
 ---
 
@@ -80,7 +102,7 @@
 
 ### 💄 Rouse Beauty Studio
 
-Aplicación web de e-commerce enfocada en productos de belleza con:
+Aplicación web de e-commerce enfocada en productos de belleza.
 
 ✅ Probador virtual de maquillaje
 
@@ -130,29 +152,26 @@ Java · Spring Boot · MySQL
 
 ---
 
-## 📚 Actualmente Estudiando
-
-📖 React Avanzado
-
-📖 Spring Boot
-
-📖 Bases de Datos Relacionales y NoSQL
+## 📚 Actualmente Aprendiendo
 
 📖 Arquitectura de Software
 
-📖 Inglés Técnico
+📖 Inteligencia Artificial aplicada al desarrollo web
+
+📖 Buenas prácticas de desarrollo Full Stack
+
+📖 Inglés técnico para desarrolladores
 
 ---
 
 ## 📫 Contacto
 
-📧 Correo: **raquelml.dev@gmail.com**
+📧 Correo: **[raquelml.dev@gmail.com](mailto:raquelml.dev@gmail.com)**
 
 📍 Villavicencio, Colombia
 
 ---
 
-## 💡 Frase que me representa
 
 > "El software no solo resuelve problemas, también crea oportunidades para transformar vidas."
 
