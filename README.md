@@ -8,7 +8,7 @@
 
 🌱 Aprendiendo continuamente nuevas tecnologías y mejores prácticas de desarrollo.
 
-📍 Colombia
+
 
 ---
 
