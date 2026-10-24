@@ -144,8 +144,6 @@ Java · Spring Boot · MySQL
 
 ✔ Convertirme en Full Stack Developer
 
-✔ Especializarme en Arquitectura de Software
-
 ✔ Aprender Inteligencia Artificial aplicada al desarrollo web
 
 ✔ Participar en proyectos tecnológicos de impacto social
@@ -155,8 +153,6 @@ Java · Spring Boot · MySQL
 ---
 
 ## 📚 Actualmente Aprendiendo
-
-📖 Arquitectura de Software
 
 📖 Inteligencia Artificial aplicada al desarrollo web
 
@@ -168,7 +164,7 @@ Java · Spring Boot · MySQL
 
 ## 📫 Contacto
 
-📧 Correo: **[raquelml.dev@gmail.com](mailto:raquelml.dev@gmail.com)**
+📧 Correo: **[raquelmd.dev@gmail.com](mailto:raquelml.dev@gmail.com)**
 
 📍 Villavicencio, Colombia
 
